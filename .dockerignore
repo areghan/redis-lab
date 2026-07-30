@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual Environment
+.venv/
+venv/
+
+# Git
+.git/
+.gitignore
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# Environment variables
+.env
+
+# Pytest
+.pytest_cache/
+
+# Coverage
+.coverage
+htmlcov/
+
+# Docker
+Dockerfile
+.dockerignore
+
+# Kubernetes
+*.log

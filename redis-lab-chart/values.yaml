@@ -1,0 +1,6 @@
+replicaCount: 2
+
+image:
+  repository: redis-lab
+  tag: v1
+  pullPolicy: Never
